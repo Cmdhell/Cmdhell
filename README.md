@@ -4,7 +4,7 @@
 <p align="center">
     𝑺𝒉𝒐𝒏𝒂 </>
 <p align="center">  
-<img src="https://komarev.com/ghpvc/?username=weloveusyrus&color=grey">
+<img src="https://komarev.com/ghpvc/?username=cmdhell&color=grey">
 </p>
     <p align="center">
   <img src="https://discord.c99.nl/widget/theme-4/823410430323327016.png"/>
