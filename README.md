@@ -24,17 +24,17 @@ Currently learning how to skid
 
 [![Top Langs](https://github-readme-stats-two-nu-79.vercel.app/api/top-langs/?username=cmdhell&layout=compact&theme=merko)](https://github.com/cmdhell/github-readme-stats)
 
-![SHONA stats](https://github-readme-stats-two-nu-79.vercel.app/api?username=SHONA00&show_icons=true&theme=merko)
+![SHONA stats](https://github-readme-stats-two-nu-79.vercel.app/api?username=cmdhell&show_icons=true&theme=merko)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SHONA00&theme=merko" alt="SHONA00" /> </p> 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cmdhell&theme=merko" alt="cmdhell" /> </p> 
 
 # Contact
- [youtube](https://www.youtube.com/channel/UCbzQDQiKFFlefi84488Cy0w)
+ [youtube](https://www.youtube.com/@whituv)
 
 
-#WE LOVE SHONA
+#WE LOVE Whituv
 <p align="center">
-  <a href="https://github.com/SHONA00">
+  <a href="https://github.com/cmdshell">
     <img src="https://avatars.githubusercontent.com/u/144094389?s=50&u=2445cd14f3f6d5743ff6d45a2163067556e92704&v=4"/>
      </a>
 </p>
