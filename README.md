@@ -2,7 +2,7 @@
 <img src="https://i0.wp.com/i.imgur.com/YPG5OJp.gif">
 </p>
 <p align="center">
-    𝑺𝒉𝒐𝒏𝒂 </>
+    𝚆𝚑𝚒𝚝𝚞𝚟  </>
 <p align="center">  
 <img src="https://komarev.com/ghpvc/?username=cmdhell&color=grey">
 </p>
