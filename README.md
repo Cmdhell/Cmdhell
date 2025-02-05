@@ -12,7 +12,7 @@
 <p align="center">
 Currently learning how to skid
 <p align="center">
-    <a href="https://discord.gg/">Discord Server</a>
+    <a href="https://t.me/uvwhit">Telegram</a>
     
 # LANGUAGES AND TOOLS
 
