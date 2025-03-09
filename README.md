@@ -25,7 +25,6 @@ Currently learning how to skid
 [![Top Langs](https://github-readme-stats-two-nu-79.vercel.app/api/top-langs/?username=cmdhell&layout=compact&theme=merko)](https://github.com/cmdhell/github-readme-stats)
 
 ![SHONA stats](https://github-readme-stats-two-nu-79.vercel.app/api?username=cmdhell&show_icons=true&theme=merko)
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cmdhell&theme=merko" alt="cmdhell" /> </p> 
 
 # Contact
